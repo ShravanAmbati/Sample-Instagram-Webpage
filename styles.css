@@ -1,0 +1,168 @@
+body{
+    background-color: black;
+} 
+img{
+    width: 40px;
+    height: 40px;
+}
+.text{
+    color: white;
+}
+.insta{
+    font-family:unset;
+    margin-bottom: 40px;
+}
+.side{
+    display: flex;
+    padding: 2px;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid grey;
+    padding-right: 90px;
+    padding-left: 10px;
+}
+.pushdown{
+    margin-top:70px;
+}
+.mid{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.middleee{
+    border-right: 1px solid grey;
+}
+.topra {
+    width: 70px;
+    height: 70px;
+    margin-right: 25px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: rgb(232, 22, 169) red rgb(210, 182, 57) rgb(180, 55, 42) ;
+}
+.he{
+    margin-right: 20px;
+    font-size: small;
+}
+.j{
+    margin-left:4px;
+}
+.ee{
+    margin-left:12px
+}
+.q{
+    margin-left: 4px;
+}
+.qq{
+    margin-left: 14px;
+}
+.w{
+    margin-left: 17px;
+}
+.dd{
+    margin-left:8px;
+}
+.fg{
+    width: 40px;
+    height: 40px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: rgb(232, 22, 169) red rgb(210, 182, 57) rgb(180, 55, 42) ;
+
+}
+.ptee{
+    display: flex;
+}
+.mainpost{
+    margin-top: 1px;
+    margin-left: 120px;
+}
+.eggg{
+    margin-left: 10px;
+    font-weight:600;
+    margin-top: 9px;
+}
+.hhh{
+    margin-top: 6px;
+    width: 30px;
+    height: 30px;
+}
+.gr{
+    color: grey;
+    margin-top:12px;
+}
+.vvv{
+    margin-left: 300px;
+}
+.lkk{
+    width: 550px;
+    height: 365px;
+    border-radius:5px;
+}
+.hjj{
+    margin-left: 410px;
+    height: 30px;
+    width: 36px;
+    margin-bottom: 5px;
+}
+.dxp{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-left: 8px;
+    margin-bottom: 0px;
+}
+.cddd{
+    margin-left: 10px;
+    margin-top:3px;
+    margin-bottom: 0px;
+}
+.hhh{
+    margin-top: 5px;
+}
+.poi{
+    margin-top:1px;
+    margin-bottom:0px;
+}
+.cvb{
+    margin-bottom:1px;
+}
+.fxs{
+    margin-top:0px;
+    margin-bottom: 2px;
+    margin-left: 10px;
+}
+.ttext{
+    color:rgb(169, 163, 163);
+}
+.smww{
+    margin-bottom:6px;
+    height:25px;
+    width: 25px;
+}
+.dfgh{
+    height: 33px;
+    width: 33px;
+    margin-bottom: 3px;
+}
+.cls{
+    margin-left: 10px;
+}
+.vfxx{
+    margin-top:10px;
+}
+.dwee{
+    border-radius: 50%;
+    margin-right:2px;
+}
+/* .lats{
+    flex-direction: column;
+}
+.latstic{
+    display: flex;
+    justify-content: right;
+} */
